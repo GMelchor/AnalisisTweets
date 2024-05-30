@@ -1,0 +1,2 @@
+# AnalisisTweets
+ El trabajo que aquí se propone (tomando como base el articulo denominado: Observations on Using Genetic Algorithms for Dynamic Load-Balancing.pdf) investiga como puede emplearse un algoritmo genético para resolver el problema  de equilibrio de carga. Se desarrolla un algoritmo de equilibrio de carga mediante el  cual las asignaciones de tareas optimas pueden evolucionar durante el  funcionamiento del sistem
